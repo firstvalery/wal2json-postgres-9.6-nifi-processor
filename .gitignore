@@ -1,0 +1,4 @@
+/nifi-cdc-postgresql-nar/target/
+/nifi-cdc-postgresql-processors/target/
+/target/
+/.idea/

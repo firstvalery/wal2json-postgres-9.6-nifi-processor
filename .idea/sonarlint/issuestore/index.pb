@@ -1,18 +1,10 @@
 
-™
-inifi-cdc-postgresql-processors/src/main/java/org/apache/nifi/cdc/postgresql/pgEasyReplication/Column.java,c/7/c7a3c69b201eb746d880da71aefcda64fe22fdba
 ˜
 hnifi-cdc-postgresql-processors/src/main/java/org/apache/nifi/cdc/postgresql/pgEasyReplication/Event.java,a/3/a3d267a1c89c2e2986d38b8adde8b52d8274063a
 ™
 inifi-cdc-postgresql-processors/src/main/java/org/apache/nifi/cdc/postgresql/pgEasyReplication/Stream.java,1/2/12430159ef8e7872179ecedd6ceb88aae22d1c41
-™
-inifi-cdc-postgresql-processors/src/main/java/org/apache/nifi/cdc/postgresql/pgEasyReplication/Decode.java,0/3/0377412ba6a92fdd7d42ebc69a9a09d52cdea958
 ›
 knifi-cdc-postgresql-processors/src/main/java/org/apache/nifi/cdc/postgresql/pgEasyReplication/Snapshot.java,3/a/3ad07c4cd66b5aafd0aab2a18b6f670bad36fe75
-›
-knifi-cdc-postgresql-processors/src/main/java/org/apache/nifi/cdc/postgresql/pgEasyReplication/Relation.java,2/3/2318788e00ea6bac09dc3dc2e56a97d4b1a968b8
-£
-snifi-cdc-postgresql-processors/src/main/java/org/apache/nifi/cdc/postgresql/processors/CaptureChangePostgreSQL.java,8/0/8005377728c9366c2a617fa6c1a5276d9e04de54
 ¤
 tnifi-cdc-postgresql-processors/src/main/java/org/apache/nifi/cdc/postgresql/pgEasyReplication/ConnectionManager.java,6/5/654c85cddb2ec6af26956120845beaa94d1b0df0
 V
