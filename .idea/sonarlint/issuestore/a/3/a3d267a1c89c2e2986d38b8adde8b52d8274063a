@@ -1,6 +1,0 @@
-
-†
-java:S1319 "pThe type of the "data" object should be an interface such as "List" rather than the implementation "LinkedList".(¾Ìì³
-Œ
-java:S1319("qThe return type of this method should be an interface such as "List" rather than the implementation "LinkedList".(åòµŸÿÿÿÿÿ
-o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Âñü¾

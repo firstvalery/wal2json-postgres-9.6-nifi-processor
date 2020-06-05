@@ -1,8 +1,0 @@
-org/apache/nifi/cdc/postgresql/pgEasyReplication/PGEasyReplication.class
-org/apache/nifi/cdc/postgresql/pgEasyReplication/ConnectionManager.class
-org/apache/nifi/cdc/postgresql/processors/Wal2JsonPostgreSQL96Capture$DriverShim.class
-org/apache/nifi/cdc/postgresql/pgEasyReplication/Snapshot.class
-org/apache/nifi/cdc/postgresql/pgEasyReplication/Stream.class
-org/apache/nifi/cdc/postgresql/pgEasyReplication/Event.class
-org/apache/nifi/cdc/postgresql/processors/Wal2JsonPostgreSQL96Capture.class
-org/apache/nifi/cdc/postgresql/processors/Wal2JsonPostgreSQL96Capture$1.class

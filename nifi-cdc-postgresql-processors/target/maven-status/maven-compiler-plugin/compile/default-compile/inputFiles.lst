@@ -1,6 +1,0 @@
-/home/firstvalery/WORKSPACE/nifi-cdc-postgresql10-nar/nifi-cdc-postgresql-processors/src/main/java/org/apache/nifi/cdc/postgresql/pgEasyReplication/Snapshot.java
-/home/firstvalery/WORKSPACE/nifi-cdc-postgresql10-nar/nifi-cdc-postgresql-processors/src/main/java/org/apache/nifi/cdc/postgresql/pgEasyReplication/PGEasyReplication.java
-/home/firstvalery/WORKSPACE/nifi-cdc-postgresql10-nar/nifi-cdc-postgresql-processors/src/main/java/org/apache/nifi/cdc/postgresql/pgEasyReplication/Event.java
-/home/firstvalery/WORKSPACE/nifi-cdc-postgresql10-nar/nifi-cdc-postgresql-processors/src/main/java/org/apache/nifi/cdc/postgresql/processors/Wal2JsonPostgreSQL96Capture.java
-/home/firstvalery/WORKSPACE/nifi-cdc-postgresql10-nar/nifi-cdc-postgresql-processors/src/main/java/org/apache/nifi/cdc/postgresql/pgEasyReplication/Stream.java
-/home/firstvalery/WORKSPACE/nifi-cdc-postgresql10-nar/nifi-cdc-postgresql-processors/src/main/java/org/apache/nifi/cdc/postgresql/pgEasyReplication/ConnectionManager.java
