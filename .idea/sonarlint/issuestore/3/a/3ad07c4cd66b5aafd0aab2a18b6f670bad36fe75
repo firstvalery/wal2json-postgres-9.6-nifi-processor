@@ -1,0 +1,18 @@
+
+t
+java:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").(ï¬š³üÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Âñü¾
+a
+java:S1301Q"KReplace this "switch" statement by "if" statements to increase readability.(ò¢Çı
+l
+java:S20951"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.( £ƒø8ÂêáÏ§.
+b
+java:S20954"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(Ë¼Ëûÿÿÿÿ
+‹
+java:S1319B"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(¹è»ÿÿÿÿÿ
+o
+java:S2293I"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÉÛÆÎ
+‹
+java:S13190"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(›ıº˜şÿÿÿÿ
+t
+java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(¾‰”Šÿÿÿÿÿ

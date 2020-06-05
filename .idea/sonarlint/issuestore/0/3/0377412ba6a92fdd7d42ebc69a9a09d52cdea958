@@ -1,0 +1,83 @@
+
+U
+java:S4719ã"9Replace charset name argument with StandardCharsets.UTF_8(ßãŠŸûÿÿÿÿ
+o
+java:S2293%"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦­Òİ
+f
+java:S1192_"KDefine a constant instead of duplicating this literal "relationId" 4 times.(€“üÿÿÿÿ
+l	java:S117‹"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½ç£ïıÿÿÿÿ
+8
+java:S1116ë"Remove this empty statement.(Åñ­õşÿÿÿÿ
+T
+java:S4719e"9Replace charset name argument with StandardCharsets.UTF_8(Í´õŸúÿÿÿÿ
+‹
+java:S1130Ã"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(’š‘98€Ââ¯£.
+k	java:S117e"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í´õŸúÿÿÿÿ
+8
+java:S1643"Use a StringBuilder instead.(øİøıÿÿÿÿ
+c
+java:S2095„"GUse try-with-resources or close this "ResultSet" in a "finally" clause.(ÄŒì´üÿÿÿÿ
+o
+java:S2293z"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñ÷åğ
+T
+java:S4719W"9Replace charset name argument with StandardCharsets.UTF_8(èš¬æúÿÿÿÿ
+n
+java:S2293("YReplace the type specification in this constructor call with the diamond operator ("<>").(š–äc
+P
+java:S4719“"9Replace charset name argument with StandardCharsets.UTF_8(í¾›¿
+l	java:S117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡Ÿûÿÿÿÿ
+U
+java:S4719Ã"9Replace charset name argument with StandardCharsets.UTF_8(Í´õŸúÿÿÿÿ
+j
+java:S2095‚"GUse try-with-resources or close this "Statement" in a "finally" clause.(Á¹âßÿÿÿÿÿ8€Ââ¯£.
+f	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×¾Èú
+Y	java:S125é"<This block of commented-out lines of code should be removed.(Û‹§¹8€Ââ¯£.
+g	java:S117Á"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ÑçÆ
+f	java:S117c"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦ÑçÆ
+o
+java:S1128 "TRemove this unnecessary import: same package classes are always implicitly imported.(—ğ×¼şÿÿÿÿ
+U
+java:S4719á"9Replace charset name argument with StandardCharsets.UTF_8(Ïçåóÿÿÿÿÿ
+ˆ
+java:S1319'"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(¯ à±ùÿÿÿÿ
+a
+java:S1192W"FDefine a constant instead of duplicating this literal "UTF-8" 8 times.(èš¬æúÿÿÿÿ
+o
+java:S2293~"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü•ğ¢
+t
+java:S2293$"YReplace the type specification in this constructor call with the diamond operator ("<>").(«˜¾èÿÿÿÿÿ
+P
+java:S4719"9Replace charset name argument with StandardCharsets.UTF_8(€±æ¢
+Y	java:S125½"<This block of commented-out lines of code should be removed.(Û‹§¹8€Ââ¯£.
+g	java:S117Ÿ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(çá²˜
+i
+java:S1192j"NDefine a constant instead of duplicating this literal "namespaceName" 4 times.(’´¬©øÿÿÿÿ
+l	java:S117û"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿ù¡ëøÿÿÿÿ
+P
+java:S4719Ÿ"9Replace charset name argument with StandardCharsets.UTF_8(çá²˜
+o
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(š–äc
+u
+java:S2293Å"YReplace the type specification in this constructor call with the diamond operator ("<>").(š´å±ıÿÿÿÿ
+…
+java:S1130ï"nRemove the declaration of thrown exception 'java.sql.SQLException', as it cannot be thrown from method's body.(Ôóáİ
+8
+java:S1116ì"Remove this empty statement.(Åñ­õşÿÿÿÿ
+h
+java:S1192k"MDefine a constant instead of duplicating this literal "relationName" 6 times.(€©ùÿÿÿÿ
+f
+java:S1192w"KDefine a constant instead of duplicating this literal "numColumns" 3 times.(ø×Á–ÿÿÿÿÿ
+l	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¡ÏØÙøÿÿÿÿ
+u
+java:S2293ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").(š´å±ıÿÿÿÿ
+l	java:S117Ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Í´õŸúÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Âñü¾
+T	java:S106›"9Replace this use of System.out or System.err by a logger.(ÓİŠúÿÿÿÿ
+3
+java:S1643"Use a StringBuilder instead.(€±æ¢
+a
+java:S1192±"JDefine a constant instead of duplicating this literal "tupleData" 6 times.(òùĞ°
+
+java:S1130"qRemove the declaration of thrown exception 'java.text.ParseException', as it cannot be thrown from method's body.(›€„8€Ââ¯£.
+„
+java:S1319"mThe return type of this method should be an interface such as "Map" rather than the implementation "HashMap".(›€„

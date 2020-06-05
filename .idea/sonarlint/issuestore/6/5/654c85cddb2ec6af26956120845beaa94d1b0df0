@@ -1,0 +1,8 @@
+
+[	java:S1120"FDefine and throw a dedicated exception instead of using a generic one.(«šÀ±
+c
+java:S2095S"HUse try-with-resources or close this "Connection" in a "finally" clause.(È¨ßÐøÿÿÿÿ
+`	java:S112I"FDefine and throw a dedicated exception instead of using a generic one.(ÜÃ´æúÿÿÿÿ
+`	java:S112\"FDefine and throw a dedicated exception instead of using a generic one.(¥Üâøýÿÿÿÿ
+`	java:S112E"FDefine and throw a dedicated exception instead of using a generic one.(¶ ýñøÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Âñü¾
