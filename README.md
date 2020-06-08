@@ -1,0 +1,1 @@
+# wal2json-postgres-9.6-nifi-processor
