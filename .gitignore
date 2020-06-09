@@ -2,3 +2,5 @@
 /nifi-cdc-postgresql-processors/target/
 /target/
 /.idea/
+/nifi-cdc-postgresql-processors/nifi-cdc-postgresql-processors.iml
+/nifi-cdc-postgresql-nar/nifi-cdc-postgresql-nar.iml
